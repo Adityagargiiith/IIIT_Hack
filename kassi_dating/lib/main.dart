@@ -5,6 +5,7 @@ import 'firebase_options.dart';
 import 'HomePage.dart';
 import 'firebase_auth.dart';
 import 'signup.dart';
+import 'pfp.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

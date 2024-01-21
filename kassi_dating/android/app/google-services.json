@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188888034601",
+    "project_id": "iiithack",
+    "storage_bucket": "iiithack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188888034601:android:9be2b3a03850e03e255b38",
+        "android_client_info": {
+          "package_name": "com.example.kassi_dating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnP5RR10BL52tdLnNjnIgOVuaRKr64iYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188888034601:android:0c4b2453f9664778255b38",
+        "android_client_info": {
+          "package_name": "com.example.kuch_nhi_ho_raha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnP5RR10BL52tdLnNjnIgOVuaRKr64iYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
